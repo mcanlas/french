@@ -98,6 +98,6 @@ Etc
   - le France est un pays laïc
 - à bientôt ("see you" soon)
 - à lundi ("see you" monday)
-- à demain ("see you"
-- à ce soir
+- à demain ("see you" tomorrow)
+- à ce soir ("see you" tonight)
 - je suis -> `schwee`
