@@ -11,8 +11,14 @@ How are you?
 
 I'm well.
 
-- ça va bien
-- je vais bien
+- ça va bien (it's going well)
+- je vais bien (i'm doing well)
+- necesary double negatives
+  - non, ça ne va pas bien
+  - je ne vais jamais bien
+  - je ne vais pas bien
+  - ne ... pas
+  - ne ... jemais
 
 What's your name?
 
@@ -67,6 +73,19 @@ What languages do you speak?
 - tu parles aussi (also)
 - est-ce que tu as déjà voyagé en France?
 
+Circumlocution
+
+- je comprends / je ne comprends pas
+- d'accord
+- comment to dis ...
+- ju suis d'accord
+- j'ai besoin d'un exemple
+- s'il te plaît
+- s'il vous plaît
+- répète, s'il te plaît
+- répétez s'il vous plaît
+- peux-tu répéter s'il te plaît (can you...?)
+
 Etc
 
 - forêt (`foray` forrest)
@@ -77,3 +96,8 @@ Etc
 - ë tréma
   - laïc (not religious)
   - le France est un pays laïc
+- à bientôt ("see you" soon)
+- à lundi ("see you" monday)
+- à demain ("see you"
+- à ce soir
+- je suis -> `schwee`
