@@ -11,7 +11,7 @@
 | 7 | sept |
 | 8 | huit |
 | 9 | neuf |
-| 10 | neuf |
+| 10 | dix |
 | 11 | onze |
 | 12 | douze |
 | 13 | treize |
