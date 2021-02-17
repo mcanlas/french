@@ -34,7 +34,11 @@ I am ... years old.
 
 - J'ai ... ans.
 
-Where are you fro?
+Single?
+- Célibataire
+- Marié
+
+Where are you from?
 
 - D'où es-tu ? 
 - D'où viens-tu ?
@@ -46,6 +50,7 @@ Where are you fro?
 - Est-ce que tu es Américain ?
   ("Est-ce que" fragment is how to form a question)
 - Tu es Américain.
+- j'habite à New-York
 
 Qu'est-ce que tu fais dans la vie?
 
@@ -72,6 +77,11 @@ What languages do you speak?
 - grec ancien
 - tu parles aussi (also)
 - est-ce que tu as déjà voyagé en France?
+- quelle est ta langue natale
+- ma langue
+- c'est du chinois pour moi
+- Une langue étrangère
+  - un étranger
 
 Circumlocution
 
@@ -85,6 +95,48 @@ Circumlocution
 - répète, s'il te plaît
 - répétez s'il vous plaît
 - peux-tu répéter s'il te plaît (can you...?)
+- pouvez-vous...
+- J'ai une question (kis-tion)
+- lentement (lant-mon)
+  - plus lentement
+- je pense que...
+- Qu'est-ce que ça veut dire ? (what does it mean?)
+- Que veut dire ...?
+- Je suis d'accord avec toi
+- avec/sans but spécifique
+- Je dis toujours
+- La première phrase
+- Ça ne fonctionnait pas toujours (never worked)
+- C'est mon conseil (my advice)
+
+Thanks
+
+- pas de problème
+- de rien
+- je vous en prie
+- je t'en prie
+- avec plaisir (my pleasure)
+- Il n'y a pas de quoi
+
+Forgiveness
+
+- pardon
+- excusez-moi (vous)
+- excuse-moi (tu)
+- (je suis) désolé
+
+Formality
+- tu peux me dire "tu"
+- tu peux me tutoyer
+- vouvoyer
+- je préfère que vous me vouvoyiez
+- je préfère le vouvoiement
+
+Objects
+- tu veux de l'eau (want water?)
+  - oui je veux de l'eau
+  - oui j'en veux
+- Je n'aime pas du tout (at all)
 
 Etc
 
@@ -101,3 +153,21 @@ Etc
 - à demain ("see you" tomorrow)
 - à ce soir ("see you" tonight)
 - je suis -> `schwee`
+- il faut (it is necessary... you need to...)
+  - répondre en français
+- j'ai besoin de (i need )
+  - beaucoup de (a lot of)
+  - mots (words)
+- peut-être
+- je sais
+  - je ne sais pas
+    - "chuh pas"
+- plus ou moins
+- super
+- il y a (there is, ago)
+  - Il y a longtemps (many years)
+  - Il y a deux jours
+- à l'aide (help!)
+- au secours (help!)
+- "Le nouveau taxi" book
+  - https://www.deepl.com/fr/translator
