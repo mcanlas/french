@@ -13,6 +13,15 @@
   - akkusativ
   - genitiv
 
+## Pronouns
+
+- ich
+- du
+- er, sie, es
+- wir
+- ihr
+- sie (they), Sie (you formal)
+
 ## Articles
 
 - der, die, das (definitive, masc fem neut)
@@ -34,6 +43,9 @@
 - die Pandemie
 - Beruf / job
 - Softwareentwickler = software developer
+- die Katze (cat)
+- der Hund (dog)
+- die Tasse (cup)
 
 ## Adjectives
 
@@ -81,6 +93,8 @@
 - nie / niemals = never
 - Wie alt bist du?
   - Ich bin sieben-und-dreißig Jahre alt.
+- Wie heißt er
+  - what's his name?
 
 ## Examples
 
